@@ -1,0 +1,13 @@
+.sectionContainer{
+  background-color: rgba(192, 140, 81, 0.668);
+  border-radius: 5px 5px 0px 0px;
+  margin: auto;
+  padding: 5%;
+  font-size: 4vw;
+  box-shadow: .1rem .4rem 4rem black;
+}
+
+.aboutTitle{
+  text-align: center;
+  text-decoration: underline;
+}

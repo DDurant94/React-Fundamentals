@@ -1,0 +1,21 @@
+.headerInfoContainer{
+  background-image: url(../images/LWC_0166.jpg);
+  background-size: 100% 100%;
+  margin: auto;
+  padding: 1%;
+  width: auto;
+  height: 80vw;
+  border-radius:5px;
+  box-shadow: .1rem .4rem 4rem black;
+}
+
+.headerInfo{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 5vw;
+  text-shadow: -1px -1px rgb(4, 4, 4);
+}
+
+
+
+

@@ -1,0 +1,18 @@
+.contactSection{
+  background-color: rgba(192, 140, 81, 0.668);
+  border-radius: 0px 0px 5px 5px;
+  margin: auto;
+  padding: 3%;
+  font-size: 4vw;
+  box-shadow: .1rem .4rem 4rem black;
+}
+
+.contactTitle{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.waysToContactContainer{
+  margin: 3%;
+  padding: 4%;
+}
